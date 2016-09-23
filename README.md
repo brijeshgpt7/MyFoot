@@ -3,8 +3,8 @@
 To run this application first download it.  
 
  ```console
- git clone https://github.com/vgvinay2/FootPrint.git
- cd FootPrint 
+ git clone https://github.com/brijeshgpt7/MyFoot.git
+ cd MyFoot 
 ruby run.rb 
 
 your output will be like this 
